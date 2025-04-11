@@ -1,3 +1,6 @@
+<hr />
+<br/>
+
 ### [Austin's Portfolio](https://wingoa.github.io/MyPortfolio/)
 
 <hr />
