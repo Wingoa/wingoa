@@ -3,6 +3,7 @@
 
 ### [Austin's Portfolio](https://wingoa.github.io/MyPortfolio/)
 
+<br/>
 <hr />
 <br/>
 
@@ -22,7 +23,6 @@
 
 <br/>
 <hr />
-<br/>
 
 <!--![Wingoa's github stats](https://github-readme-stats.vercel.app/api?username=wingoa&show_icons=true&hide_border=true)-->
 
