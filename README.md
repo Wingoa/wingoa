@@ -1,12 +1,6 @@
 <hr />
 <br/>
 
-### [Austin's Portfolio](https://wingoa.github.io/MyPortfolio/)
-
-<br/>
-<hr />
-<br/>
-
 **Languages and Tools:**
 
 <code><img height="50" src="https://angular.dev/assets/images/press-kit/angular_pride.png#small" alt="https://angular.dev/assets/images/press-kit/angular_pride.png#small" class="transparent"></code>
